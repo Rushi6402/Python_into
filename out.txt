@@ -1,0 +1,18 @@
+I i'm bad boy you know
+i am really sorry
+so don't give up boy
+
+hii 
+hello
+
+****-**-** **:**:** INFO User logged in: john@example.com
+****-**-** **:**:** ERROR Failed login attempt from user: mike@gmail.com
+****-**-** **:**:** WARNING Disk space low
+****-**-** **:**:** DEBUG Debug message for system check
+****-**-** **:**:** CRITICAL System failure reported by admin@company.org
+****-**-** **:**:** INFO User performed action
+
+ifo
+info
+INFO
+

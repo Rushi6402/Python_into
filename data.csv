@@ -1,0 +1,6 @@
+name,age,city,salary,purchased
+Alice,24,New York,2000,yes
+Bob,30,Los Angeles,,no
+Charlie,22,Chicago,,yes
+David,35,Houston,4000,no
+Eva,28,Phoenix,2000,yes
