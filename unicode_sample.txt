@@ -1,0 +1,4 @@
+Unicode Sample File
+
+Here are some unicode characters: - Japanese: こんにちは - Hindi:
+नमस्ते - Arabic: مرحبا - Emoji: 😀🔥🌍
